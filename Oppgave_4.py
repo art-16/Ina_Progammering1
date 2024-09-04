@@ -1,7 +1,7 @@
 #Oppgave 4 - Regnestykker:
 
 #Lag tre variabler a = 6, b = 3, c = 2.
-#Lag et program som regner ut resultatene av følgende regnestykker og skriver ut svaret.
+#Lag et program som regner ut resultatene av følgende regnestykker og skriver ut svaret..
 #a) a + b * c
 #b) (a + b) * c
 #c) a / b / c

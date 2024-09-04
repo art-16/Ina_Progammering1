@@ -1,6 +1,6 @@
 #Oppgave 5 - Småkaker:
 
-#Det følgende er en oversikt over hvor mange småkaker fem forskjellige personer har spist over en uke:
+#Det følgende er en oversiktt over hvor mange småkaker fem forskjellige personer har spisst over en uke:
 
 #Person 1: 5 småkaker
 #Person 2: 9 småkaker
