@@ -7,4 +7,12 @@
 # og returnere volumet. Kall funksjonen noen ganger med forskjellige verdier for lengde, bredde og høyde,
 # og skriv ut resultatet av hver utregning.
 
-def 
+def finne_volum(lengde, bredde, hoyde):
+    return lengde * bredde * hoyde
+
+lengde = int(input("Skriv inn lengde: "))
+bredde = int(input("Skriv inn bredde: "))
+hoyde = int(input("Skriv inn hoyde: "))
+
+volum= finne_volum(lengde, bredde, hoyde)
+print(f"Volumet på objektet er {volum}")

@@ -14,5 +14,5 @@ fav_matretter = ["pizza", "pasta", "indisk"]
 
 print_list(fav_matretter)
 
-#Jeg ser ikke helt hva somble feil her
+#Jeg ser ikke helt hva som ble feil her
 
